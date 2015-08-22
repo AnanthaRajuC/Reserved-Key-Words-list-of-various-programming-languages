@@ -49,3 +49,53 @@ This page contains a list of all the reserved words in Standard C++
   - volatile
 - W
   - while
+
+# New to C++
+
+- A
+  - asm 
+- B
+  - bool 
+- C
+  - catch
+  - class
+  - const_cast
+- D
+  - delete 
+  - dynamic_cast
+- E
+  - explicit
+- F
+  - false
+  - friend
+- I
+  - inline 
+- M
+  - mutable 
+- N
+  - namespace
+  - new
+- O
+  - operator
+- P
+  - private 
+  - public
+  - protected
+- R 
+  - reinterpret_cast
+- S
+  - static_cast       
+- T
+  - template 
+  - this 
+  - throw  
+  - true
+  - try
+  - typeid
+  - typename
+- U
+  - using
+- V
+  - virtual
+- W
+  - wchar_t
