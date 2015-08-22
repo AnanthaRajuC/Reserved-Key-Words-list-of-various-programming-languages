@@ -1,4 +1,4 @@
-# GO Reserved Words
+# Go Reserved Words
 
 The following keywords are reserved and may not be used as identifiers.
 
