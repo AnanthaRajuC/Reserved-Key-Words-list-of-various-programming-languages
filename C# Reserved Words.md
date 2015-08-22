@@ -1,0 +1,147 @@
+# C# Keywords (Visual Studio 2015)
+
+Keywords that are reserved identifiers in any part of a C# program.
+
+- A
+  - abstract
+  - as
+- B
+  - base
+  - bool
+  - break
+  - byte
+- C 
+  - case
+  - catch
+  - char 
+  - checked
+  - class
+  - const
+  - continue
+- D
+  - decimal
+  - default
+  - delegate
+  - do
+  - double
+- E
+  - else
+  - enum
+  - event
+  - explicit
+  - extern
+- F
+  - false
+  - finally
+  - fixed
+  - float
+  - for
+  - foreach
+- G
+  - goto
+- I
+  - if
+  - implicit
+  - in
+  - in (generic modifier)
+  - int
+  - interface
+  - internal
+  - is
+- L
+  - lock
+  - long
+- N
+  - namespace
+  - new
+  - null
+- O
+  - object
+  - operator
+  - out
+  - out (generic modifier)
+  - override
+- P
+  - params
+  - private
+  - protected
+  - public
+- R
+  - readonly
+  - ref
+  - return
+- S 
+  - sbyte
+  - sealed
+  - short
+  - sizeof
+  - stackalloc
+  - static
+  - string
+  - struct
+  - switch
+- T
+  - this
+  - throw
+  - true
+  - try
+  - typeof
+- U
+  - uint
+  - ulong
+  - unchecked
+  - unsafe
+  - ushort
+  - using
+- V
+  - virtual
+  - void
+  - volatile
+- W
+  - while
+
+Contextual Keywords
+  
+A contextual keyword is used to provide a specific meaning in the code, but it is not a reserved word in C#. Some contextual keywords, such as partial and where, have special meanings in two or more contexts.
+
+- A
+  - add
+  - alias
+  - ascending
+  - async
+  - await
+- D
+  - descending
+  - dynamic
+- F
+  - from
+- G
+  - get
+  - global
+  - group
+- I
+  - into
+- J
+  - join
+- L
+  - let
+- O
+  - orderby
+- P
+  - partial (type)
+  - partial (method)
+- R
+  - remove
+- S 
+  - select
+  - set
+- V
+  - value
+  - var
+- W
+  - where (generic type constraint)
+  - where (query clause)
+- Y
+  - yield
+  
+  ---
