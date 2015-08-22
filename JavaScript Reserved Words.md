@@ -198,6 +198,23 @@ JavaScript can be used outside HTML. It can be used as the programming language 
 - W
   - window
 
+# HTML Event Handlers
+
+In addition you should avoid using the name of all HTML event handlers.
+
+- O 
+  - onblur	
+  - onclick	
+  - onerror	
+  - onfocus
+  - onkeydown	
+  - onkeypress	
+  - onkeyup	
+  - onmouseover
+  - onload	
+  - onmouseup	
+  - onmousedown	
+  - onsubmit
 
 
 
