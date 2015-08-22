@@ -1,0 +1,104 @@
+#PHP Reserved Words
+
+These words have special meaning in PHP. Some of them represent things which look like functions, some look like constants, and so on - but they're not, really: they are language constructs. You cannot use any of the following words as constants, class names, function or method names. Using them as variable names is generally OK, but could lead to confusion.
+
+- \__halt_compiler()	
+- A
+  - abstract	
+  - and	
+  - array()	
+  - as
+- B
+  - break	
+- C
+  - callable 	
+  - case	
+  - catch	
+  - class
+  - clone	
+  - const	
+  - continue	
+- D
+  - declare	
+  - default
+  - die()	
+  - do	
+- E
+  - echo	
+  - else	
+  - elseif
+  - empty()	
+  - enddeclare	
+  - endfor	
+  - endforeach	
+  - endif
+  - endswitch	
+  - endwhile	
+  - eval()	
+  - exit()	
+  - extends
+- F
+  - final	
+  - finally 	
+  - for	
+  - foreach	
+  - function
+- G
+  - global	
+  - goto 	
+- I
+  - if	
+  - implements	
+  - include
+  - include_once	
+  - instanceof	
+  - insteadof 	
+  - interface	
+  - isset()
+- L
+  - list()	
+- N
+  - namespace 	
+  - new	
+- O
+  - or	
+  - print
+- P
+  - private	
+  - protected	
+  - public	
+- R
+  - require	
+  - require_once
+  - return	
+- S
+  - static	
+  - switch	
+- T
+  - throw	
+  - trait 
+  - try	
+- U
+  - unset()	
+  - use	
+- V
+  - var	
+- W
+  - while
+- X 
+  - xor	
+- Y  
+  - yield 
+  
+# Compile-time constants
+
+- \__CLASS__	
+- \__DIR__ 
+- \__FILE__	
+- \__FUNCTION__	
+- \__LINE__	
+- \__METHOD__
+- \__NAMESPACE__ 
+- \__TRAIT__ 
+
+---  
