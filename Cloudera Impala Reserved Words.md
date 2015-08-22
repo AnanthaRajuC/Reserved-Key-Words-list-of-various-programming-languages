@@ -1,0 +1,172 @@
+# Cloudera Impala Reserved Words
+
+The following are the reserved words for the current release of Cloudera Impala.
+
+- A  
+  - add
+  - aggregate
+  - all
+  - alter
+  - and
+  - api_version
+  - as
+  - asc
+  - avro
+- B
+  - between
+  - bigint
+  - binary
+  - boolean
+  - by
+- C
+  - cached
+  - case
+  - cast
+  - change
+  - char
+  - class
+  - close_fn
+  - column
+  - columns
+  - comment
+  - compute
+  - create
+  - cross
+- D
+  - data
+  - database
+  - databases
+  - date
+  - datetime
+  - decimal
+  - delimited
+  - desc
+  - describe
+  - distinct
+  - div
+  - double
+  - drop
+- E
+  - else
+  - end
+  - escaped
+  - exists
+  - explain
+  - external
+- F
+  - false
+  - fields
+  - fileformat
+  - finalize_fn
+  - first
+  - float
+  - format
+  - formatted
+  - from
+  - full
+  - function
+  - functions
+- G
+  - group
+- H
+  - having
+- I
+  - if
+  - in
+  - incremental
+  - init_fn
+  - inner
+  - inpath
+  - insert
+  - int
+  - integer
+  - intermediate
+  - interval
+  - into
+  - invalidate
+  - is
+- J
+  - join
+- L
+  - last
+  - left
+  - like
+  - limit
+  - lines
+  - load
+  - location
+-M
+  - merge_fn
+  - metadata
+- N
+  - not
+  - null
+  - nulls
+- O
+  - offset
+  - on
+  - or
+  - order
+  - outer
+  - overwrite
+- P
+  - parquet
+  - parquetfile
+  - partition
+  - partitioned
+  - partitions
+  - prepare_fn
+  - produced
+- R
+  - rcfile
+  - real
+  - refresh
+  - regexp
+  - rename
+  - replace
+  - returns
+  - right
+  - rlike
+  - row
+- S
+  - schema
+  - schemas
+  - select
+  - semi
+  - sequencefile
+  - serdeproperties
+  - serialize_fn
+  - set
+  - show
+  - smallint
+  - stats
+  - stored
+  - straight_join
+  - string
+  - symbol
+- T
+  - table
+  - tables
+  - tblproperties
+  - terminated
+  - textfile
+  - then
+  - timestamp
+  - tinyint
+  - to
+  - true
+- U
+  - uncached
+  - union
+  - update_fn
+  - use
+  - using
+- V 
+  - values
+  - view
+- W
+  - when
+  - where
+  - with
+  
+---
