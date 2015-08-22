@@ -99,3 +99,23 @@ This page contains a list of all the reserved words in Standard C++
   - virtual
 - W
   - wchar_t
+
+# These words are not essential when the standard ASCII character set is being used, but they have been added to provide more readable alternatives for some of the C++ operators, and also to facilitate programming with character sets that lack characters needed by C++.
+
+- A
+  - and
+  - and_eq 
+- B 
+  - bitand 
+  - bitor
+- C
+  - compl
+- N
+  - not
+  - not_eq 
+- O
+  - or
+  - or_eq
+- X
+  - xor
+  - xor_eq
