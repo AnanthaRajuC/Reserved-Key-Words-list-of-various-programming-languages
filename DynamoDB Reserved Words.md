@@ -1,3 +1,7 @@
+# DynamoDB Reserved Words
+
+The following keywords are reserved for use by DynamoDB. Do not use any of these words as attribute names in expressions.
+
 - A
   - ABORT
   - ABSOLUTE
@@ -596,3 +600,5 @@
   - YEAR
 - Z 
   - ZONE
+  
+---
