@@ -2,11 +2,12 @@
 
 The following keywords are used by Ruby.
 
-  - __ENCODING__
-  - __LINE__
-  - __FILE__
-  - BEGIN 
-  - END
+__ENCODING__
+__LINE__
+__FILE__
+BEGIN 
+END
+
 - A
   - alias
   - and
