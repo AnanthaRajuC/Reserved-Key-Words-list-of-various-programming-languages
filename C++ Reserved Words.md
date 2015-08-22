@@ -2,7 +2,7 @@
 
 This page contains a list of all the reserved words in Standard C++
 
-# These are present in the C programming language and have been carried over into C++
+These are present in the C programming language and have been carried over into C++
 
 - A 
   - auto
@@ -50,7 +50,7 @@ This page contains a list of all the reserved words in Standard C++
 - W
   - while
 
-# New to C++
+New to C++
 
 - A
   - asm 
@@ -100,7 +100,7 @@ This page contains a list of all the reserved words in Standard C++
 - W
   - wchar_t
 
-# These words are not essential when the standard ASCII character set is being used, but they have been added to provide more readable alternatives for some of the C++ operators, and also to facilitate programming with character sets that lack characters needed by C++.
+These words are not essential when the standard ASCII character set is being used, but they have been added to provide more readable alternatives for some of the C++ operators, and also to facilitate programming with character sets that lack characters needed by C++.
 
 - A
   - and
