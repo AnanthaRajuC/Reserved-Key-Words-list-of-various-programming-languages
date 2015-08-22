@@ -2,34 +2,48 @@
 
 The set of reserved words below is used to build up the basic instructions of C; you can not use them in programs you write.
 
-- auto
-- break
-- case
-- char
-- continue
-- default
-- do
-- double
-- else
-- entry
-- extern
-- float 
-- for 
-- goto
-- if
-- int
-- long
-- register
-- return
-- short 
-- sizeof
-- static
-- struct
-- switch
-- typedef
-- union
-- unsigned
-- while
+- A 
+  - auto
+- B  
+  - break
+- C
+  - case
+  - char
+  - continue
+- D
+  - default
+  - do
+  - double
+- E  
+  - else
+  - entry
+  - extern
+- F
+  - float 
+  - for 
+- G
+  - goto
+- I
+  - if
+  - int
+- L
+  - long
+- R
+  - register
+  - return
+- S
+  - short 
+  - sizeof
+  - static
+  - struct
+  - switch
+- T
+  - typedef
+- U
+  - union
+  - unsigned
+- W
+  - while
 
 # In modern implementations:
 
