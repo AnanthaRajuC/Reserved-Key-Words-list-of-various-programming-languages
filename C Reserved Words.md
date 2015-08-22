@@ -42,6 +42,9 @@ The set of reserved words below is used to build up the basic instructions of C;
 - U
   - union
   - unsigned
+- V
+  - void
+  - volatile
 - W
   - while
 
