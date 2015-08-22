@@ -119,3 +119,28 @@ These words are not essential when the standard ASCII character set is being use
 - X
   - xor
   - xor_eq
+
+Predefined Identifiers
+
+- C
+  - cin
+  - cout
+- E
+  - endl
+- I 
+  - include
+  - INT_MIN
+  - INT_MAX
+  - iomanip
+  - iostream
+- M
+  - main
+  - MAX_RAND
+- N
+  - npos
+  - NULL
+- S
+  - std
+  - string
+
+---
