@@ -2,9 +2,9 @@
 
 The following keywords are used by Ruby.
 
-- __ENCODING__
-- __LINE__
-- __FILE__
+- \__ENCODING__
+- \__LINE__
+- \__FILE__
 - BEGIN 
 - END
 
