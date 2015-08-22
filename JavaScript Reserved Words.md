@@ -2,69 +2,57 @@
 
 In JavaScript, some identifiers are reserved words and cannot be used as variables or function names.
 
-abstract	
-arguments	
-boolean	
-break	
-byte
-case	
-catch	
-char	
-class
-const
-continue	
-debugger	
-default	
-delete	
-do
-double	
-else	
-enum
-eval	
-export
-extends
-false	
-final	
-finally	
-float
-for	
-function	
-goto	
-if	
-implements
-import
-in	
-instanceof	
-int	
-interface
-let	
-long	
-native	
-new	
-null
-package	
-private	
-protected	
-public	
-return
-short	
-static	
-super
-switch	
-synchronized
-this	
-throw	
-throws	
-transient	
-true
-try	
-typeof	
-var	
-void	
-volatile
-while	
-with	
-yield
+- A
+  - abstract
+  - arguments
+- B
+  - boolean break
+  - byte case
+- C
+  - catch
+  - char
+  - class const continue
+- D
+  - debugger
+  - default delete
+  - do double
+- E
+  - else
+  - enum eval
+  - export extends false
+- F
+  - final
+  - finally float for function
+- G
+  - goto
+- I
+  - if
+  - implements import in
+  - instanceof
+  - int interface let long
+- N
+  - native
+  - new null package private protected
+- P
+  - public
+- R
+  - return short
+- S
+  - static
+  - super switch
+  - synchronized this
+- T
+  - throw
+  - throws
+  - transient
+  - true try typeof
+- V
+  - var void
+  - volatile while
+- W
+  - with
+- Y
+  - yield
 
 # JavaScript Objects, Properties, and Methods
 
