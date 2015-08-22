@@ -30,7 +30,7 @@
   - AUTHORIZE
   - AUTO
   - AVG
- - B
+- B
   - BACK
   - BACKUP
   - BASE
@@ -50,7 +50,7 @@
   - BULK
   - BY
   - BYTE
- - C
+- C
   - CALL
   - CALLED
   - CALLING
@@ -104,7 +104,7 @@
   - CURRENT
   - CURSOR
   - CYCLE
- - D
+- D
   - DATA
   - DATABASE
   - DATE
@@ -142,7 +142,7 @@
   - DUMP
   - DURATION
   - DYNAMIC
- - E
+- E
   - EACH
   - ELEMENT
   - ELSE
@@ -173,7 +173,7 @@
   - EXTENDED
   - EXTERNAL
   - EXTRACT
- - F 
+- F 
   - FAIL
   - FALSE
   - FAMILY
@@ -199,7 +199,7 @@
   - FULL
   - FUNCTION
   - FUNCTIONS
- - G
+- G
   - GENERAL
   - GENERATE
   - GET
@@ -211,7 +211,7 @@
   - GREATER
   - GROUP
   - GROUPING
- - H 
+- H 
   - HANDLER
   - HASH
   - HAVE
@@ -220,7 +220,7 @@
   - HIDDEN
   - HOLD
   - HOUR
- - I
+- I
   - IDENTIFIED
   - IDENTITY
   - IF
@@ -257,12 +257,12 @@
   - ITEM
   - ITEMS
   - ITERATE
- - J
+- J
   - JOIN
- - K
+- K
   - KEY
   - KEYS
- - L
+- L
   - LAG
   - LANGUAGE
   - LARGE
@@ -293,7 +293,7 @@
   - LONG
   - LOOP
   - LOWER
- - M
+- M
   - MAP
   - MATCH
   - MATERIALIZED
@@ -315,7 +315,7 @@
   - MONTH
   - MULTI
   - MULTISET
- - N
+- N
   - NAME
   - NAMES
   - NATIONAL
@@ -331,7 +331,7 @@
   - NULLIF
   - NUMBER
   - NUMERIC
- - O
+- O
   - OBJECT
   - OF
   - OFFLINE
@@ -356,7 +356,7 @@
   - OVERLAPS
   - OVERRIDE
   - OWNER
- - P
+- P
   - PAD
   - PARALLEL
   - PARAMETER
@@ -390,11 +390,11 @@
   - PROVISIONING
   - PUBLIC
   - PUT
- - Q
+- Q
   - QUERY
   - QUIT
   - QUORUM
- - R
+- R
   - RAISE
   - RANDOM
   - RANGE
@@ -443,7 +443,7 @@
   - ROWS
   - RULE
   - RULES
- - S 
+- S 
   - SAMPLE
   - SATISFIES
   - SAVE
@@ -513,7 +513,7 @@
   - SYMMETRIC
   - SYNONYM
   - SYSTEM
- - T 
+- T 
   - TABLE
   - TABLESAMPLE
   - TEMP
@@ -544,7 +544,7 @@
   - TTL
   - TUPLE
   - TYPE
- - U 
+- U 
   - UNDER
   - UNDO
   - UNION
@@ -565,7 +565,7 @@
   - USERS
   - USING
   - UUID
- - V 
+- V 
   - VACUUM
   - VALUE
   - VALUED
@@ -579,7 +579,7 @@
   - VIEWS
   - VIRTUAL
   - VOID
- - W 
+- W 
   - WAIT
   - WHEN
   - WHENEVER
@@ -592,7 +592,7 @@
   - WORK
   - WRAPPED
   - WRITE
- - Y
+- Y
   - YEAR
- - Z 
+- Z 
   - ZONE
