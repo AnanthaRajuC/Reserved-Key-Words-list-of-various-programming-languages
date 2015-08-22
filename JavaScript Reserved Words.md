@@ -58,36 +58,55 @@ In JavaScript, some identifiers are reserved words and cannot be used as variabl
 
 Avoid using the name of JavaScript built-in objects, properties, and methods.
 
-Array	
-Date	
-eval	
-function	
-hasOwnProperty
-Infinity	
-isFinite	
-isNaN	
-isPrototypeOf	
-length
-Math	
-NaN	
-name	
-Number	
-Object
-prototype	
-String	
-toString	
-undefined	
-valueOf
+- A 
+  - Array	
+- D
+  - Date	
+- E
+  - eval	
+- F
+  - function	
+- H
+  - hasOwnProperty
+- I
+  - Infinity	
+  - isFinite	
+  - isNaN	
+  - isPrototypeOf	
+- L
+  - length
+- M
+  - Math	
+- N
+  - NaN	
+  - name	
+  - Number	
+- O
+  - Object
+- P
+  - prototype	
+- S
+  - String	
+- T
+  - toString	
+- U
+  - undefined	
+- V
+  - valueOf
+
+
 
 # Java Reserved Words
 JavaScript is often used together with Java. Therefore avoid using some Java objects and properties as JavaScript identifiers.
 
-getClass	
-java	
-JavaArray	
-javaClass	
-JavaObject	
-JavaPackage
+- G
+  - getClass
+- J
+  - java
+  - JavaArray
+  - javaClass
+  - JavaObject
+  - JavaPackage
 
 # Windows Reserved Words
 
