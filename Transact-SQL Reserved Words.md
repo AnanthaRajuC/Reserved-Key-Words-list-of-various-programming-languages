@@ -1,0 +1,781 @@
+# Transact-SQL Reserved Words 
+
+(Applies To: SQL Server 2014, SQL Server 2016 Preview)
+Microsoft SQL Server uses reserved keywords for defining, manipulating, and accessing databases. Reserved keywords are part of the grammar of the Transact-SQL language that is used by SQL Server to parse and understand Transact-SQL statements and batches. Although it is syntactically possible to use SQL Server reserved keywords as identifiers and object names in Transact-SQL scripts, you can do this only by using delimited identifiers.
+
+- A 
+  - ADD
+  - ALL
+  - ALTER
+  - AND
+  - ANY
+  - AS
+  - ASC
+  - AUTHORIZATION
+- B
+  - BACKUP
+  - BEGIN
+  - BETWEEN
+  - BREAK
+  - BROWSE
+  - BULK
+  - BY
+- C 
+  - CASCADE
+  - CASE
+  - CHECK
+  - CHECKPOINT
+  - CLOSE
+  - CLUSTERED
+  - COALESCE
+  - COLLATE
+  - COLUMN
+  - COMMIT
+  - COMPUTE
+  - CONSTRAINT
+  - CONTAINS
+  - CONTAINSTABLE
+  - CONTINUE
+  - CONVERT
+  - CREATE
+  - CROSS
+  - CURRENT
+  - CURRENT_DATE
+  - CURRENT_TIME
+  - CURRENT_TIMESTAMP
+  - CURRENT_USER
+  - CURSOR
+- D 
+  - DATABASE
+  - DBCC
+  - DEALLOCATE
+  - DECLARE
+  - DEFAULT
+  - DELETE
+  - DENY
+  - DESC
+  - DISK
+  - DISTINCT
+  - DISTRIBUTED
+  - DOUBLE
+  - DROP
+  - DUMP
+- E 
+  - ELSE
+  - END
+  - ERRLVL
+  - ESCAPE
+  - EXCEPT
+  - EXEC
+  - EXECUTE
+  - EXISTS
+  - EXIT
+  - EXTERNAL
+- F 
+  - FETCH
+  - FILE
+  - FILLFACTOR
+  - FOR
+  - FOREIGN
+  - FREETEXT
+  - FREETEXTTABLE
+  - FROM
+  - FULL
+  - FUNCTION
+- G 
+  - GOTO
+  - GRANT
+  - GROUP
+- H 
+  - HAVING
+  - HOLDLOCK
+- I 
+  - IDENTITY
+  - IDENTITY_INSERT
+  - IDENTITYCOL
+  - IF
+  - IN
+  - INDEX
+  - INNER
+  - INSERT
+  - INTERSECT
+  - INTO
+  - IS
+- J 
+  - JOIN
+- K 
+  - KEY
+  - KILL
+- L 
+  - LEFT
+  - LIKE
+  - LINENO
+  - LOAD
+- M 
+  - MERGE
+- N 
+  - NATIONAL
+  - NOCHECK
+  - NONCLUSTERED
+  - NOT
+  - NULL
+  - NULLIF
+- O 
+  - OF
+  - OFF
+  - OFFSETS
+  - ON
+  - OPEN
+  - OPENDATASOURCE
+  - OPENQUERY
+  - OPENROWSET
+  - OPENXML
+  - OPTION
+  - OR
+  - ORDER
+  - OUTER
+  - OVER
+- P 
+  - PERCENT
+  - PIVOT
+  - PLAN
+  - PRECISION
+  - PRIMARY
+  - PRINT
+  - PROC
+  - PROCEDURE
+  - PUBLIC
+- R 
+  - RAISERROR
+  - READ
+  - READTEXT
+  - RECONFIGURE
+  - REFERENCES
+  - REPLICATION
+  - RESTORE
+  - RESTRICT
+  - RETURN
+  - REVERT
+  - REVOKE
+  - RIGHT
+  - ROLLBACK
+  - ROWCOUNT
+  - ROWGUIDCOL
+  - RULE
+- S 
+  - SAVE
+  - SCHEMA
+  - SECURITYAUDIT
+  - SELECT
+  - SEMANTICKEYPHRASETABLE
+  - SEMANTICSIMILARITYDETAILSTABLE
+  - SEMANTICSIMILARITYTABLE
+  - SESSION_USER
+  - SET
+  - SETUSER
+  - SHUTDOWN
+  - SOME
+  - STATISTICS
+  - SYSTEM_USER
+- T 
+  - TABLE
+  - TABLESAMPLE
+  - TEXTSIZE
+  - THEN
+  - TO
+  - TOP
+  - TRAN
+  - TRANSACTION
+  - TRIGGER
+  - TRUNCATE
+  - TRY_CONVERT
+  - TSEQUAL
+- U 
+  - UNION
+  - UNIQUE
+  - UNPIVOT
+  - UPDATE
+  - UPDATETEXT
+  - USE
+  - USER
+- V 
+  - VALUES
+  - VARYING
+  - VIEW
+- W 
+  - WAITFOR
+  - WHEN
+  - WHERE
+  - WHILE
+  - WITH
+  - WITHIN GROUP
+  - WRITETEXT
+
+  Additionally, the ISO standard defines a list of reserved keywords. Avoid using ISO reserved keywords for object names and identifiers. The ODBC reserved keyword list, shown in the following table, is the same as the ISO reserved keyword list.
+  
+  # ODBC Reserved Keywords
+  
+  The following words are reserved for use in ODBC function calls. These words do not constrain the minimum SQL grammar; however, to ensure compatibility with drivers that support the core SQL grammar, applications should avoid using these keywords.
+  
+- A 
+  - ABSOLUTE
+  - ACTION
+  - ADA
+  - ADD
+  - ALL
+  - ALLOCATE
+  - ALTER
+  - AND
+  - ANY
+  - ARE
+  - AS
+  - ASC
+  - ASSERTION
+  - AT
+  - AUTHORIZATION
+  - AVG
+- B 
+  - BEGIN
+  - BETWEEN
+  - BIT
+  - BIT_LENGTH
+  - BOTH
+  - BY
+- C 
+  - CASCADE
+  - CASCADED
+  - CASE
+  - CAST
+  - CATALOG
+  - CHAR
+  - CHAR_LENGTH
+  - CHARACTER
+  - CHARACTER_LENGTH
+  - CHECK
+  - CLOSE
+  - COALESCE
+  - COLLATE
+  - COLLATION
+  - COLUMN
+  - COMMIT
+  - CONNECT
+  - CONNECTION
+  - CONSTRAINT
+  - CONSTRAINTS
+  - CONTINUE
+  - CONVERT
+  - CORRESPONDING
+  - COUNT
+  - CREATE
+  - CROSS
+  - CURRENT
+  - CURRENT_DATE
+  - CURRENT_TIME
+  - CURRENT_TIMESTAMP
+  - CURRENT_USER
+  - CURSOR
+- D 
+  - DATE
+  - DAY
+  - DEALLOCATE
+  - DEC
+  - DECIMAL
+  - DECLARE
+  - DEFAULT
+  - DEFERRABLE
+  - DEFERRED
+  - DELETE
+  - DESC
+  - DESCRIBE
+  - DESCRIPTOR
+  - DIAGNOSTICS
+  - DISCONNECT
+  - DISTINCT
+  - DOMAIN
+  - DOUBLE
+  - DROP
+- E 
+  - ELSE
+  - END
+  - END-EXEC
+  - ESCAPE
+  - EXCEPT
+  - EXCEPTION
+  - EXEC
+  - EXECUTE
+  - EXISTS
+  - EXTERNAL
+  - EXTRACT
+- F 
+  - FALSE
+  - FETCH
+  - FIRST
+  - FLOAT
+  - FOR
+  - FOREIGN
+  - FORTRAN
+  - FOUND
+  - FROM
+  - FULL
+- G 
+  - GET
+  - GLOBAL
+  - GO
+  - GOTO
+  - GRANT
+  - GROUP
+- H 
+  - HAVING
+  - HOUR
+- I 
+  - IDENTITY
+  - IMMEDIATE
+  - IN
+  - INCLUDE
+  - INDEX
+  - INDICATOR
+  - INITIALLY
+  - INNER
+  - INPUT
+  - INSENSITIVE
+  - INSERT
+  - INT
+  - INTEGER
+  - INTERSECT
+  - INTERVAL
+  - INTO
+  - IS
+  - ISOLATION
+- J 
+  - JOIN
+- K 
+  - KEY
+- L 
+  - LANGUAGE
+  - LAST
+  - LEADING
+  - LEFT
+  - LEVEL
+  - LIKE
+  - LOCAL
+  - LOWER
+- M 
+  - MATCH
+  - MAX
+  - MIN
+  - MINUTE
+  - MODULE
+  - MONTH
+- N 
+  - NAMES
+  - NATIONAL
+  - NATURAL
+  - NCHAR
+  - NEXT
+  - NO
+  - NONE
+  - NOT
+  - NULL
+  - NULLIF
+  - NUMERIC
+- O 
+  - OCTET_LENGTH
+  - OF
+  - ON
+  - ONLY
+  - OPEN
+  - OPTION
+  - OR
+  - ORDER
+  - OUTER
+  - OUTPUT
+  - OVERLAPS
+- P 
+  - PAD
+  - PARTIAL
+  - PASCAL
+  - POSITION
+  - PRECISION
+  - PREPARE
+  - PRESERVE
+  - PRIMARY
+  - PRIOR
+  - PRIVILEGES
+  - PROCEDURE
+  - PUBLIC
+- R 
+  - READ
+  - REAL
+  - REFERENCES
+  - RELATIVE
+  - RESTRICT
+  - REVOKE
+  - RIGHT
+  - ROLLBACK
+  - ROWS
+- S 
+  - SCHEMA
+  - SCROLL
+  - SECOND
+  - SECTION
+  - SELECT
+  - SESSION
+  - SESSION_USER
+  - SET
+  - SIZE
+  - SMALLINT
+  - SOME
+  - SPACE
+  - SQL
+  - SQLCA
+  - SQLCODE
+  - SQLERROR
+  - SQLSTATE
+  - SQLWARNING
+  - SUBSTRING
+  - SUM
+  - SYSTEM_USER
+- T 
+  - TABLE
+  - TEMPORARY
+  - THEN
+  - TIME
+  - TIMESTAMP
+  - TIMEZONE_HOUR
+  - TIMEZONE_MINUTE
+  - TO
+  - TRAILING
+  - TRANSACTION
+  - TRANSLATE
+  - TRANSLATION
+  - TRIM
+  - TRUE
+- U 
+  - UNION
+  - UNIQUE
+  - UNKNOWN
+  - UPDATE
+  - UPPER
+  - USAGE
+  - USER
+  - USING
+- V 
+  - VALUE
+  - VALUES
+  - VARCHAR
+  - VARYING
+  - VIEW
+- W 
+  - WHEN
+  - WHENEVER
+  - WHERE
+  - WITH
+  - WORK
+  - WRITE
+- Y 
+  - YEAR
+- Z
+  - ZONE
+
+  # Future Keywords
+  
+  The following keywords could be reserved in future releases of SQL Server as new features are implemented. Consider avoiding the use of these words as identifiers.
+  
+- A 
+  - ABSOLUTE
+  - ACTION
+  - ADMIN
+  - AFTER
+  - AGGREGATE
+  - ALIAS
+  - ALLOCATE
+  - ARE
+  - ARRAY
+  - ASENSITIVE
+  - ASSERTION
+  - ASYMMETRIC
+  - AT
+  - ATOMIC
+- B 
+  - BEFORE
+  - BINARY
+  - BIT
+  - BLOB
+  - BOOLEAN
+  - BOTH
+  - BREADTH
+- C 
+  - CALL
+  - CALLED
+  - CARDINALITY
+  - CASCADED
+  - CAST
+  - CATALOG
+  - CHAR
+  - CHARACTER
+  - CLASS
+  - CLOB
+  - COLLATION
+  - COLLECT
+  - COMPLETION
+  - CONDITION
+  - CONNECT
+  - CONNECTION
+  - CONSTRAINTS
+  - CONSTRUCTOR
+  - CORR
+  - CORRESPONDING
+  - COVAR_POP
+  - COVAR_SAMP
+  - CUBE
+  - CUME_DIST
+  - CURRENT_CATALOG
+  - CURRENT_DEFAULT_TRANSFORM_GROUP
+  - CURRENT_PATH
+  - CURRENT_ROLE
+  - CURRENT_SCHEMA
+  - CURRENT_TRANSFORM_GROUP_FOR_TYPE
+  - CYCLE
+- D 
+  - DATA
+  - DATE
+  - DAY
+  - DEC
+  - DECIMAL
+  - DEFERRABLE
+  - DEFERRED
+  - DEPTH
+  - DEREF
+  - DESCRIBE
+  - DESCRIPTOR
+  - DESTROY
+  - DESTRUCTOR
+  - DETERMINISTIC
+  - DICTIONARY
+  - DIAGNOSTICS
+  - DISCONNECT
+  - DOMAIN
+  - DYNAMIC
+- E 
+  - EACH
+  - ELEMENT
+  - END-EXEC
+  - EQUALS
+  - EVERY
+  - EXCEPTION
+- F 
+  - FALSE
+  - FILTER
+  - FIRST
+  - FLOAT
+  - FOUND
+  - FREE
+  - FULLTEXTTABLE
+  - FUSION
+- G 
+  - GENERAL
+  - GET
+  - GLOBAL
+  - GO
+  - GROUPING
+- H 
+  - HOLD
+  - HOST
+  - HOUR
+- I 
+  - IGNORE
+  - IMMEDIATE
+  - INDICATOR
+  - INITIALIZE
+  - INITIALLY
+  - INOUT
+  - INPUT
+  - INT
+  - INTEGER
+  - INTERSECTION
+  - INTERVAL
+  - ISOLATION
+  - ITERATE
+- L 
+  - LANGUAGE
+  - LARGE
+  - LAST
+  - LATERAL
+  - LEADING
+  - LESS
+  - LEVEL
+  - LIKE_REGEX
+  - LIMIT
+  - LN
+  - LOCAL
+  - LOCALTIME
+  - LOCALTIMESTAMP
+  - LOCATOR
+- M 
+  - MAP
+  - MATCH
+  - MEMBER
+  - METHOD
+  - MINUTE
+  - MOD
+  - MODIFIES
+  - MODIFY
+  - MODULE
+  - MONTH
+  - MULTISET
+- N 
+  - NAMES
+  - NATURAL
+  - NCHAR
+  - NCLOB
+  - NEW
+  - NEXT
+  - NO
+  - NONE
+  - NORMALIZE
+  - NUMERIC
+- O 
+  - OBJECT
+  - OCCURRENCES_REGEX
+  - OLD
+  - ONLY
+  - OPERATION
+  - ORDINALITY
+  - OUT
+  - OVERLAY
+  - OUTPUT
+- P 
+  - PAD
+  - PARAMETER
+  - PARAMETERS
+  - PARTIAL
+  - PARTITION
+  - PATH
+  - POSTFIX
+  - PREFIX
+  - PREORDER
+  - PREPARE
+  - PERCENT_RANK
+  - PERCENTILE_CONT
+  - PERCENTILE_DISC
+  - POSITION_REGEX
+  - PRESERVE
+  - PRIOR
+  - PRIVILEGES
+- R 
+  - RANGE
+  - READS
+  - REAL
+  - RECURSIVE
+  - REF
+  - REFERENCING
+  - REGR_AVGX
+  - REGR_AVGY
+  - REGR_COUNT
+  - REGR_INTERCEPT
+  - REGR_R2
+  - REGR_SLOPE
+  - REGR_SXX
+  - REGR_SXY
+  - REGR_SYY
+  - RELATIVE
+  - RELEASE
+  - RESULT
+  - RETURNS
+  - ROLE
+  - ROLLUP
+  - ROUTINE
+  - ROW
+  - ROWS
+- S 
+  - SAVEPOINT
+  - SCROLL
+  - SCOPE
+  - SEARCH
+  - SECOND
+  - SECTION
+  - SENSITIVE
+  - SEQUENCE
+  - SESSION
+  - SETS
+  - SIMILAR
+  - SIZE
+  - SMALLINT
+  - SPACE
+  - SPECIFIC
+  - SPECIFICTYPE
+  - SQL
+  - SQLEXCEPTION
+  - SQLSTATE
+  - SQLWARNING
+  - START
+  - STATE
+  - STATEMENT
+  - STATIC
+  - STDDEV_POP
+  - STDDEV_SAMP
+  - STRUCTURE
+  - SUBMULTISET
+  - SUBSTRING_REGEX
+  - SYMMETRIC
+  - SYSTEM
+- T 
+  - TEMPORARY
+  - TERMINATE
+  - THAN
+  - TIME
+  - TIMESTAMP
+  - TIMEZONE_HOUR
+  - TIMEZONE_MINUTE
+  - TRAILING
+  - TRANSLATE_REGEX
+  - TRANSLATION
+  - TREAT
+  - TRUE
+- U 
+  - UESCAPE
+  - UNDER
+  - UNKNOWN
+  - UNNEST
+  - USAGE
+  - USING
+- V 
+  - VALUE
+  - VAR_POP
+  - VAR_SAMP
+  - VARCHAR
+  - VARIABLE
+- W 
+  - WHENEVER
+  - WIDTH_BUCKET
+  - WITHOUT
+  - WINDOW
+  - WITHIN
+  - WORK
+  - WRITE
+- X 
+  - XMLAGG
+  - XMLATTRIBUTES
+  - XMLBINARY
+  - XMLCAST
+  - XMLCOMMENT
+  - XMLCONCAT
+  - XMLDOCUMENT
+  - XMLELEMENT
+  - XMLEXISTS
+  - XMLFOREST
+  - XMLITERATE
+  - XMLNAMESPACES
+  - XMLPARSE
+  - XMLPI
+  - XMLQUERY
+  - XMLSERIALIZE
+  - XMLTABLE
+  - XMLTEXT
+  - XMLVALIDATE
+- Y 
+  - YEAR
+- Z
+  - ZONE
+  
+  ---
