@@ -1,0 +1,172 @@
+# Force.com Apex Reserved Words
+
+The following words can only be used as keywords. Keywords marked with an asterisk (*) are reserved for future use.
+
+- A
+  - abstract
+  - activate*
+  - and
+  - any*
+  - array
+  - as
+  - asc
+  - autonomous*
+- B
+  - begin*
+  - bigdecimal*
+  - blob
+  - break
+  - bulk
+  - by
+  - byte*
+- C
+  - case*
+  - cast*
+  - catch
+  - char*
+  - class
+  - collect*
+  - commit
+  - const*
+  - continue
+  - convertcurrency
+- D
+  - decimal
+  - default*
+  - delete
+  - desc
+  - do
+- E
+  - else
+  - end*
+  - enum
+  - exception
+  - exit*
+  - export*
+  - extends
+- F 
+  - false
+  - final
+  - finally
+  - float*
+  - for
+  - from
+  - future
+- G 
+  - global
+  - goto*
+  - group*
+- H 
+  - having*
+  - hint*
+- I 
+  - if
+  - implements
+  - import*
+  - inner*
+  - insert
+  - instanceof
+  - interface
+  - into*
+  - int
+- J 
+  - join*
+- L 
+  - last_90_days
+  - last_month
+  - last_n_days
+  - last_week
+  - like
+  - limit
+  - list
+  - long
+  - loop*
+- M
+  - map
+  - merge
+- N
+  - new
+  - next_90_days
+  - next_month
+  - next_n_days
+  - next_week
+  - not
+  - null
+  - nulls
+  - number*
+- O 
+  - object*
+  - of*
+  - on
+  - or
+  - outer*
+  - override
+- P 
+  - package
+  - parallel*
+  - pragma*
+  - private
+  - protected
+  - public
+- R 
+  - retrieve*
+  - return
+  - returning*
+  - rollback
+- S
+  - savepoint
+  - search*
+  - select
+  - set
+  - short*
+  - sort
+  - stat*
+  - static
+  - super
+  - switch*
+  - synchronized*
+  - system
+- T
+  - testmethod
+  - then*
+  - this
+  - this_month*
+  - this_week
+  - throw
+  - today
+  - tolabel
+  - tomorrow
+  - transaction*
+  - trigger
+  - true
+  - try
+  - type*
+- U
+  - undelete
+  - update
+  - upsert
+  - using
+- V
+  - virtual
+- W 
+  - webservice
+  - when*
+  - where
+  - while
+- Y 
+  - yesterday
+  
+  The following are special types of keywords that aren't reserved words and can be used as identifiers.
+  
+- after
+- before
+- count
+- excludes
+- first
+- includes
+- last
+- order
+- sharing
+- with
+
+---
