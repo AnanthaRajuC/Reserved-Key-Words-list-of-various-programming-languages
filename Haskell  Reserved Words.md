@@ -1,0 +1,75 @@
+# Haskell  Reserved Words.md
+
+This page lists all Haskell keywords.
+
+  - !
+  - '
+  - ''
+  - -
+  - --
+  - -<
+  - -<<
+  - ->
+  - ::
+  - ;
+  - <-
+  - ,
+  - =
+  - =>
+  - >
+  - ?
+  - #
+  - *
+  - @
+  - [|, |]
+  - \
+  - _
+  - `
+  - {, }
+  - {-, -}
+  - |
+  - ~
+- A
+  - as
+- C
+  - case, of
+  - class
+- D
+  - data
+  - data family
+  - data instance
+  - default
+  - deriving
+  - deriving instance
+  - do
+- F
+  - forall
+  - foreign
+- H
+  - hiding
+- I 
+  - if, then, else
+  - import
+  - infix, infixl, infixr
+  - instance
+- L
+  - let, in
+- M
+  - mdo
+  - module
+- N
+  - newtype
+- P
+  - proc
+- Q
+  - qualified
+- R
+  - rec
+- T
+  - type
+  - type family
+  - type instance
+- W
+  - where
+  
+  ---
