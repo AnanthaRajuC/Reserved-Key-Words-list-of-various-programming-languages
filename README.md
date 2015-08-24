@@ -12,6 +12,8 @@ In a computer language, a reserved word (also known as a reserved identifier) is
   - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/DynamoDB%20Reserved%20Words.md" target="_blank">DynamoDB Reserved Words</a>
 - G
   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Go%20Reserved%20Words.md" target="_blank">Go Reserved Words</a>
+- H
+  - - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Haskell%20%20Reserved%20Words.md" target="_blank">Haskell Reserved Words</a>
 - J
   - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/Java%20Keywords%20List.md" target="_blank">Java Reserved Keywords</a>
   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/JavaScript%20Reserved%20Words.md" target="_blank">JavaScript Reserved Keywords</a>
