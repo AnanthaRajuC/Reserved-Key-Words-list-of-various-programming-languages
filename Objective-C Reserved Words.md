@@ -2,40 +2,57 @@
 
 Objective-C reserves certain words, so that you can’t, or shouldn’t, use them in your own code.
 
+- A
   - auto
-  break
-  case 
-  char
-  const
-  continue
-  default
-  do
-  double
-  else
-  enum
-  extern
-  float 
-  for goto
-  if
-  inline
-  int 
-  long
-  register
-  restrict
-  return
-  short
-  signed
-  sizeof
-  static
-  struct
-  switch
-  typedef
-  union
-  unsigned
-  void
-  volatil
-  while
-  -Bool
-  _Complex
-  _Imaginary
-  
+- B
+  - break
+- C  
+  - case 
+  - char
+  - const
+  - continue
+- D
+  - default
+  - do
+  - double
+- E
+  - else
+  - enum
+  - extern
+- F
+  - float 
+  - for 
+- G
+  - goto
+- I
+  - if
+  - inline
+  - int 
+- L
+  - long
+- R
+  - register
+  - restrict
+  - return
+- S
+  - short
+  - signed
+  - sizeof
+  - static
+  - struct
+  - switch
+- T
+  - typedef
+- U
+  - union
+  - unsigned
+- V
+  - void
+  - volatile
+- W
+  - while
+
+- _Bool
+- _Complex
+- _Imaginary
+
