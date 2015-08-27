@@ -56,3 +56,53 @@ Objective-C reserves certain words, so that you can’t, or shouldn’t, use the
 - _Complex
 - _Imaginary
 
+Word's you should not use.
+
+- B
+  - BOOL
+  - Class
+- B 
+  - bycopy
+  - byref
+- I 
+  - id
+  - IMP
+  - in
+  - inout
+- N 
+  - nil
+  - NO
+  - NULL
+- O
+  - oneway
+  - out
+- P 
+  - Protocol
+- S 
+  - SEL
+  - self
+  - Super
+- Y
+  - YES
+- @
+  - @interface
+  - @end
+  - @implementation
+  - @protocol
+  - @class
+  - @public
+  - @protected
+  - @private
+  - @property
+  - @try
+  - @throw
+  - @catch()
+  - @finally
+  - @synthesize
+  - @dynamic
+  - @selector
+  - atomic
+  - nonatomic
+  - retain
+  
+ ---
