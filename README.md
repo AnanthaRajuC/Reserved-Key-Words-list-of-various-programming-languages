@@ -30,6 +30,7 @@ In a computer language, a reserved word (also known as a reserved identifier) is
   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Ruby%20Reserved%20Words.md" target="_blank">Ruby Reserved Keywords</a>
 - S
   - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/SQL%20reserved%20words.md" target="_blank">SQL reserved words</a>
+  -  <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/SQLite%20Reserved%20Keywords.md" target="_blank">SQLite Reserved Keywords</a>
 - T
   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Transact-SQL%20Reserved%20Words.md" target="_blank">Transact-SQL Reserved Words</a>
   
