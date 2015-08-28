@@ -8,6 +8,7 @@ In a computer language, a reserved word (also known as a reserved identifier) is
   - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/C%20Reserved%20Words.md" target="_blank">C Reserved Words</a>
   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/C%23%20Reserved%20Words.md" target="_blank">C# Reserved Words</a>
   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/C%2B%2B%20Reserved%20Words.md" target="_blank">C++ Reserved Words</a>
+  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Apache%20Cassandra%20Reserved%20%26%20Non-reserved%20Keywords.md" target="_blank">Cassandra (CQL) Reserved Words</a>
   - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/Cloudera%20Impala%20Reserved%20Words.md" target="_blank">Cloudera Impala Reserved Words</a>
 - D
   - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/DynamoDB%20Reserved%20Words.md" target="_blank">DynamoDB Reserved Words</a>
