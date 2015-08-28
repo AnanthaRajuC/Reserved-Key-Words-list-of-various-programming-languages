@@ -14,24 +14,24 @@ In a computer language, a reserved word (also known as a reserved identifier) is
   -  <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/AngelScript%20Reserved%20Words.md" target="_blank">AngelScript</a>
   -  <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Force.com%20Apex%20Reserved%20Words.md" target="_blank">Apex (Force.com Salesforce)</a>
 - C
-  - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/C%20Reserved%20Words.md" target="_blank">C Reserved Words</a>
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/C%2B%2B%20Reserved%20Words.md" target="_blank">C++ Reserved Words</a>  
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/C%23%20Reserved%20Words.md" target="_blank">C# Reserved Words</a>
+  - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/C%20Reserved%20Words.md" target="_blank">C</a>
+  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/C%2B%2B%20Reserved%20Words.md" target="_blank">C++</a>  
+  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/C%23%20Reserved%20Words.md" target="_blank">C#</a>
 - G
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Go%20Reserved%20Words.md" target="_blank">Go Reserved Words</a>
+  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Go%20Reserved%20Words.md" target="_blank">Go</a>
 - H
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Haskell%20%20Reserved%20Words.md" target="_blank">Haskell Reserved Words</a>
+  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Haskell%20%20Reserved%20Words.md" target="_blank">Haskell</a>
 - I 
-  - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/Cloudera%20Impala%20Reserved%20Words.md" target="_blank">Impala (Cloudera) Reserved Words</a> 
+  - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/Cloudera%20Impala%20Reserved%20Words.md" target="_blank">Impala (Cloudera)</a> 
 - J
-  - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/Java%20Keywords%20List.md" target="_blank">Java Reserved Keywords</a>
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/JavaScript%20Reserved%20Words.md" target="_blank">JavaScript Reserved Keywords</a>
+  - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/Java%20Keywords%20List.md" target="_blank">Java</a>
+  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/JavaScript%20Reserved%20Words.md" target="_blank">JavaScript</a>
 - O
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Objective-C%20Reserved%20Words.md" target="_blank">Objective-C Reserved Words</a>
+  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Objective-C%20Reserved%20Words.md" target="_blank">Objective-C</a>
 - P
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/PHP%20Reserved%20Words.md" target="_blank">PHP Reserved Keywords</a>
+  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/PHP%20Reserved%20Words.md" target="_blank">PHP</a>
 - R
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Ruby%20Reserved%20Words.md" target="_blank">Ruby Reserved Keywords</a>
+  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/Ruby%20Reserved%20Words.md" target="_blank">Ruby</a>
   
 ---
 
