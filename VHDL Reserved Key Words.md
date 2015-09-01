@@ -1,1 +1,121 @@
 # VHDL Reserved Key Words.md
+
+- A
+  - abs           
+  - access        
+  - after         
+  - alias         
+  - all           
+  - and           
+  - architecture  
+  - array         
+  - assert        
+  - attribute     
+- B 
+  - begin         
+  - block         
+  - body          
+  - buffer       
+  - bus          
+- C 
+  - case          
+  - component    
+  - configuration 
+  - constant      
+- D 
+  - disconnect    
+  - downto       
+- E 
+  - else          
+  - elsif        
+  - end           
+  - entity       
+  - exit          
+- F 
+  - file          
+  - for           
+  - function      
+- G 
+  - generate      
+  - generic       
+  - group         
+  - guarded       
+- I 
+  - if            
+  - impure        
+  - in            
+  - inertial      
+  - inout         
+  - is            
+- L 
+  - label         
+  - library       
+  - linkage       
+  - literal       
+  - loop          
+- M 
+  - map           
+  - mod           
+  - nand          
+- N 
+  - new           
+  - next           
+  - nor            
+  - not            
+  - null           
+- O 
+  - of             
+  - on             
+  - open           
+  - or            
+  - others         
+  - out            
+- P 
+  - package        
+  - port           
+  - postponed      
+  - procedure      
+  - process        
+  - pure           
+- R 
+  - range          
+  - record         
+  - register       
+  - reject         
+  - rem            
+  - report         
+  - return         
+  - rol            
+  - ror            
+- S 
+  - select         
+  - severity       
+  - signal         
+  - shared         
+  - sla            
+  - sll            
+  - sra            
+  - srl            
+  - subtype        
+- T 
+  - then           
+  - to             
+  - transport      
+  - type           
+- U 
+  - unaffected     
+  - units          
+  - until          
+  - use            
+- v 
+  - variable       
+- w 
+  - wait           
+  - when           
+  - while          
+  - with                
+- x 
+  - xnor           
+  - xor    
+
+---  
