@@ -1,3 +1,27 @@
+# Adobe ColdFusion 9 Reserved Key Words
+
+The following list indicates words you must not use for ColdFusion variables, user-defined function names, or custom tag names. Although you can safely use some of these words in some situations, you can prevent errors by avoiding them entirely.
+
+- Any name starting with cf. However, when you call a CFML custom tag directly, you prefix the custom tag page name with cf_.
+- Built-in function names, such as Now or Hash
+- Scope names, such as Form or Session
+- Operators, such as NE or IS
+- The names of any built-in data structures, such as Error or File
+- The names of any built-in variables, such as RecordCount or CGI variable names
+- The following CFScript language element names:
+  - for
+  - default
+  - continue
+  - import
+  - finally
+  - local (inside function declaration)
+  - interface
+  - pageencoding
+
+Remember that ColdFusion is not case sensitive. For example, all of the following are reserved words: IS, Is, iS, and is.
+Note: Keywords in the newly added statements, such as abort, rethrow, param, and so on are not reserved.
+
+
 Reserved words in forms
 
 - _integer
