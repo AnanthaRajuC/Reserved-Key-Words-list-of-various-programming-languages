@@ -6,3 +6,260 @@ Reserved words in forms
 - _date
 - _time
 - _eurodate
+
+Reserved words in queries
+
+- A 
+  - ABSOLUTE
+  - ACTION
+  - ADD
+  - ALL
+  - ALLOCATE
+  - ALTER
+  - AND
+  - ANY
+  - ARE
+  - AS
+  - ASC
+  - ASSERTION
+  - AT
+  - AUTHORIZATION
+  - AVG
+- B 
+  - BEGIN
+  - BETWEEN
+  - BIT
+  - BIT_LENGTH
+  - BOTH
+  - BY
+- C 
+  - CASCADE
+  - CASCADED
+  - CASE
+  - CAST
+  - CATALOG
+  - CHAR
+  - CHARACTER
+  - CHARACTER_LENGTH
+  - CHAR_LENGTH
+  - CHECK
+  - CLOSE
+  - COALESCE
+  - COLLATE
+  - COLLATION
+  - COLUMN
+  - COMMIT
+  - CONNECT
+  - CONNECTION
+  - CONSTRAINT
+  - CONSTRAINTS
+  - CONTINUE
+  - CONVERT
+  - CORRESPONDING
+  - COUNT
+  - CREATE
+  - CROSS
+  - CURRENT
+  - CURRENT_DATE
+  - CURRENT_TIME
+  - CURRENT_TIMESTAMP
+  - CURRENT_USER
+  - CURSOR
+- D 
+  - DATE
+  - DAY
+  - DEALLOCATE
+  - DEC
+  - DECIMAL
+  - DECLARE
+  - DEFAULT
+  - DEFERRABLE
+  - DEFERRED
+  - DELETE
+  - DESC
+  - DESCRIBE
+  - DESCRIPTOR
+  - DIAGNOSTICS
+  - DISCONNECT
+  - DISTINCT
+  - DOMAIN
+  - DOUBLE
+  - DROP
+- E 
+  - ELSE
+  - END
+  - END-EXEC
+  - ESCAPE
+  - EXCEPT
+  - EXCEPTION
+  - EXEC
+  - EXECUTE
+  - EXISTS
+  - EXTERNAL
+  - EXTRACT
+- F 
+  - FALSE
+  - FETCH
+  - FIRST
+  - FLOAT
+  - FOR
+  - FOREIGN
+  - FOUND
+  - FROM
+  - FULL
+- G 
+  - GET
+  - GLOBAL
+  - GO
+  - GOTO
+  - GRANT
+  - GROUP
+- H 
+  - HAVING
+  - HOUR
+- I 
+  - IDENTITY
+  - IMMEDIATE
+  - IN
+  - INDICATOR
+  - INITIALLY
+  - INNER
+  - INPUT
+  - INSENSITIVE
+  - INSERT
+  - INT
+  - INTEGER
+  - INTERSECT
+  - INTERVAL
+  - INTO
+  - IS
+  - ISOLATION
+- J 
+  - JOIN
+- K 
+  - KEY
+- L 
+  - LANGUAGE
+  - LAST
+  - LEADING
+  - LEFT
+  - LEVEL
+  - LIKE
+  - LOCAL
+  - LOWER
+- M 
+  - MATCH
+  - MAX
+  - MIN
+  - MINUTE
+  - MODULE
+  - MONTH
+- N 
+  - NAMES
+  - NATIONAL
+  - NATURAL
+  - NCHAR
+  - NEXT
+  - NO
+  - NOT
+  - NULL
+  - NULLIF
+  - NUMERIC
+- O 
+  - OCTET_LENGTH
+  - OF
+  - ON
+  - ONLY
+  - OPEN
+  - OPTION
+  - OR
+  - ORDER
+  - OUTER
+  - OUTPUT
+  - OVERLAPS
+- P 
+  - PAD
+  - PARTIAL
+  - POSITION
+  - PRECISION
+  - PREPARE
+  - PRESERVE
+  - PRIMARY
+  - PRIOR
+  - PRIVILEGES
+  - PROCEDURE
+  - PUBLIC
+- R 
+  - READ
+  - REAL
+  - REFERENCES
+  - RELATIVE
+  - RESTRICT
+  - REVOKE
+  - RIGHT
+  - ROLLBACK
+  - ROWS
+- S 
+  - SCHEMA
+  - SCROLL
+  - SECOND
+  - SECTION
+  - SELECT
+  - SESSION
+  - SESSION_USER
+  - SET
+  - SIZE
+  - SMALLINT
+  - SOME
+  - SPACE
+  - SQL
+  - SQLCODE
+  - SQLERROR
+  - SQLSTATE
+  - SUBSTRING
+  - SUM
+  - SYSTEM_USER
+- T 
+  - TABLE
+  - TEMPORARY
+  - THEN
+  - TIME
+  - TIMESTAMP
+  - TIMEZONE_HOUR
+  - TIMEZONE_MINUTE
+  - TO
+  - TRAILING
+  - TRANSACTION
+  - TRANSLATE
+  - TRANSLATION
+  - TRIM
+  - TRUE
+- U 
+  - UNION
+  - UNIQUE
+  - UNKNOWN
+  - UPDATE
+  - UPPER
+  - USAGE
+  - USER
+  - USING
+- V 
+  - VALUE
+  - VALUES
+  - VARCHAR
+  - VARYING
+  - VIEW
+- W 
+  - WHEN
+  - WHENEVER
+  - WHERE
+  - WITH
+  - WORK
+  - WRITE
+- Y 
+  - YEAR
+- Z 
+  - ZONE
+
+---
+ 
