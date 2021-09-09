@@ -18,6 +18,8 @@ In a computer language, a reserved word (also known as a reserved identifier) is
   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/C%2B%2B%20Reserved%20Words.md" target="_blank">C++</a>  
   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/C%23%20Reserved%20Words.md" target="_blank">C#</a>
   - <a href="https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Adobe%20ColdFusion%209%20Reserved%20Key%20Words.md" target="_blank">Cold Fusion 9 (Adobe)</a>
+- E
+  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Elixir%20Reserved%20Words.md" target="_blank">Elixir</a>
 - G
   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Go%20Reserved%20Words.md" target="_blank">Go</a>
 - H
