@@ -33,6 +33,7 @@ In a computer language, a reserved word (also known as a reserved identifier) is
   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Objective-C%20Reserved%20Words.md" target="_blank">Objective-C</a>
 - P
   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/PHP%20Reserved%20Words.md" target="_blank">PHP</a>
+  - <a href="https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Python%20Reserved%20Words.md" target="_blank">Python</a>
 - R
   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Ruby%20Reserved%20Words.md" target="_blank">Ruby</a>
 - T 
