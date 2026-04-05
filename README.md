@@ -1,45 +1,72 @@
 # "Reserved Key Words" list of various programming languages
 In a computer language, a reserved word (also known as a reserved identifier) is a word that cannot be used as an identifier, such as the name of a variable, function, or label – it is "reserved from use". 
 
+
 - Database's 
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Apache%20Cassandra%20Reserved%20%26%20Non-reserved%20Keywords.md" target="_blank">Cassandra (CQL)</a>  
-  - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/language-files/DynamoDB%20Reserved%20Words.md" target="_blank">DynamoDB</a>
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/MariaDB%20Reserved%20Words.md" target="_blank">MariaDB</a>
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Oracle%20Database%20Reserved%20Words.md" target="_blank">Oracle Database</a>
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/PostgreSQL%207.3.21%20Reserved%20Words.md" target="_blank">PostgreSQL 7.3.21</a> 
-  - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/language-files/SQL%20reserved%20words.md" target="_blank">SQL</a>
-  -  <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/SQLite%20Reserved%20Keywords.md" target="_blank">SQLite</a>
-   - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Transact-SQL%20Reserved%20Words.md" target="_blank">Transact-SQL</a> 
+  - [Cassandra (CQL)](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Apache%20Cassandra%20Reserved%20%26%20Non-reserved%20Keywords.md)  
+  - [DynamoDB](https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/language-files/DynamoDB%20Reserved%20Words.md)
+  - [MariaDB](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/MariaDB%20Reserved%20Words.md)
+  - [Oracle Database](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Oracle%20Database%20Reserved%20Words.md)
+  - [PostgreSQL 7.3.21](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/PostgreSQL%207.3.21%20Reserved%20Words.md) 
+  - [SQL](https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/language-files/SQL%20reserved%20words.md)
+  - [SQLite](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/SQLite%20Reserved%20Keywords.md)
+  - [Transact-SQL](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Transact-SQL%20Reserved%20Words.md) 
+
 - A
-  -  <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/AngelScript%20Reserved%20Words.md" target="_blank">AngelScript</a>
-  -  <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Force.com%20Apex%20Reserved%20Words.md" target="_blank">Apex (Force.com Salesforce)</a>
+  - [AngelScript](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/AngelScript%20Reserved%20Words.md)
+  - [Apex (Force.com Salesforce)](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Force.com%20Apex%20Reserved%20Words.md)
+
 - C
-  - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/language-files/C%20Reserved%20Words.md" target="_blank">C</a>
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/C%2B%2B%20Reserved%20Words.md" target="_blank">C++</a>  
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/C%23%20Reserved%20Words.md" target="_blank">C#</a>
-  - <a href="https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Adobe%20ColdFusion%209%20Reserved%20Key%20Words.md" target="_blank">Cold Fusion 9 (Adobe)</a>
+  - [C](https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/language-files/C%20Reserved%20Words.md)
+  - [C++](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/C%2B%2B%20Reserved%20Words.md)  
+  - [C#](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/C%23%20Reserved%20Words.md)
+  - [Cold Fusion 9 (Adobe)](https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Adobe%20ColdFusion%209%20Reserved%20Key%20Words.md)
+
+- D
+  - [Dart]([#](https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Dart.md))
+
 - E
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Elixir%20Reserved%20Words.md" target="_blank">Elixir</a>
+  - [Elixir](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Elixir%20Reserved%20Words.md)
+
 - G
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Go%20Reserved%20Words.md" target="_blank">Go</a>
+  - [Go](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Go%20Reserved%20Words.md)
+  - [Groovy]([#](https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Groovy.md))
+
 - H
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Haskell%20%20Reserved%20Words.md" target="_blank">Haskell</a>
+  - [Haskell](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Haskell%20%20Reserved%20Words.md)
+
 - I 
-  - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/language-files/Cloudera%20Impala%20Reserved%20Words.md" target="_blank">Impala (Cloudera)</a> 
+  - [Impala (Cloudera)](https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/language-files/Cloudera%20Impala%20Reserved%20Words.md) 
+
 - J
-  - <a href="https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/language-files/Java%20Keywords%20List.md" target="_blank">Java</a>
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/JavaScript%20Reserved%20Words.md" target="_blank">JavaScript</a>
+  - [Java](https://github.com/AnanthaRajuC/Reserved-Words-Key-Words-list-of-various-programming-languages/blob/master/language-files/Java%20Keywords%20List.md)
+  - [JavaScript](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/JavaScript%20Reserved%20Words.md)
+  - [Julia]([#](https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Juila.md))
+
+- K
+  - [Kotlin]([#](https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Kotlin.md))
+
 - O
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Objective-C%20Reserved%20Words.md" target="_blank">Objective-C</a>
+  - [Objective-C](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Objective-C%20Reserved%20Words.md)
+
 - P
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/PHP%20Reserved%20Words.md" target="_blank">PHP</a>
-  - <a href="https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Python%20Reserved%20Words.md" target="_blank">Python</a>
+  - [PHP](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/PHP%20Reserved%20Words.md)
+  - [Python](https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Python%20Reserved%20Words.md)
+
 - R
-  - <a href="https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Ruby%20Reserved%20Words.md" target="_blank">Ruby</a>
+  - [Ruby](https://github.com/AnanthaRajuC/Lists-of-Reserved-Words-of-various-programming-languages/blob/master/language-files/Ruby%20Reserved%20Words.md)
+  - [Rust]([#](https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Rust.md))
+
+- S
+  - [Scala]([#](https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Scala.md))
+  - [Swift]([#](https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Swift.md))
+
 - T 
-  - <a href="https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Teradata%20Parallel%20Transporter%20Reserved%20Keywords.md" target="_blank">Teradata Parallel Transporter (PT)</a>
+  - [Teradata Parallel Transporter (PT)](https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/Teradata%20Parallel%20Transporter%20Reserved%20Keywords.md)
+  - [TypeScript]([#](https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/TypeScript.md))
+
 - V 
-  - <a href="https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/VHDL%20Reserved%20Key%20Words.md" target="_blank">VHDL (PT)</a>
+  - [VHDL (PT)](https://github.com/AnanthaRajuC/Reserved-Key-Words-list-of-various-programming-languages/blob/master/language-files/VHDL%20Reserved%20Key%20Words.md)
 
 ---
 
